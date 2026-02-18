@@ -1,0 +1,5 @@
+{
+  "name": "ArarasView",
+  "description": "An interactive tool to identify vegetation types (Fitofisionomias) of the Brazilian Cerrado biome based on scientific parameters, enhanced with Gemini AI for detailed ecological insights and visualization.",
+  "requestFramePermissions": []
+}
