@@ -7,7 +7,7 @@ import { RupestreValidator } from './components/RupestreValidator';
 import { BiomeParameters, BiomeFormation, BiomeResult, AIAnalysisResult } from './types';
 import { identifyFitofisionomia } from './utils/biomeLogic';
 import { getBiomeAnalysis, generateBiomeImage } from './services/geminiService';
-import { Map as MapIcon, Sliders, ShieldCheck } from 'lucide-react';
+import { Map as MapIcon, Sliders } from 'lucide-react';
 
 const App: React.FC = () => {
   // --- State ---
